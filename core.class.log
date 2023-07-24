@@ -1,0 +1,42 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930602006@s.whatsapp.net',
+    fromMe: false,
+    id: 'FC0198AC3283E6E638838943C9048531',
+    participant: undefined
+  },
+  messageTimestamp: 1690220908,
+  pushName: 'Test DevHD',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Test DevHD',
+  body: '1',
+  from: '51930602006'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51930602006@s.whatsapp.net',
+    fromMe: false,
+    id: '016E84C71E060F63FC9A291ADAEF95CA',
+    participant: undefined
+  },
+  messageTimestamp: 1690220914,
+  pushName: 'Test DevHD',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Test DevHD',
+  body: '1',
+  from: '51930602006'
+}
